@@ -1,139 +1,80 @@
-<h1 align="center">Hi 👋, I'm Mani Vidyadhar</h1>
-<h3 align="center">Cybersecurity Enthusiast | MCA Graduate</h3>
-
-<p align="center">
-🔐 Network Security & Penetration Testing <br>
-💻 Python | Kali Linux | Security Tools <br>
-📍 Vijayawada, Andhra Pradesh, India
-</p>
+<h1 align="left">Hi 👋, I'm Mani Vidyadhar</h1>
+<h3 align="left">Cybersecurity Enthusiast | MCA Graduate</h3>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Master of Computer Applications (MCA) Graduate
-- 🔍 Strong interest in **Cybersecurity, SOC Operations, and Penetration Testing**
-- 🛡️ Hands-on experience in **vulnerability assessment, port scanning, and web security testing**
-- 🧪 Worked with **OWASP Top 10**, manual & automated security testing
-- 🚀 Actively building and improving security-focused tools and projects
+- 🎓 MCA Graduate with a strong foundation in **Cybersecurity & Networking**
+- 🔐 Interested in **SOC Operations, Penetration Testing, and Web Security**
+- 🛠️ Hands-on experience in **vulnerability assessment and reconnaissance**
+- 🧪 Worked with **OWASP Top 10**, manual & automated testing
+- 🚀 Actively building and improving **security-focused tools**
 - 🎯 Seeking **entry-level SOC Analyst / Penetration Tester roles**
 
 ---
 
-## 🧠 Core Skills
-
-### 🛡️ Cybersecurity & Networking
-- Network Scanning & Enumeration  
-- Vulnerability Assessment & Exploitation Basics  
-- Web Application Security (OWASP Top 10)  
-- Traffic Analysis & Reconnaissance  
-
-### 🧰 Security Tools
-- Nmap  
-- Burp Suite  
-- Nessus  
-- Nikto  
-- Metasploit  
-- sqlmap  
-
-### 💻 Programming & OS
-- Python (Intermediate)  
-- Bash / Shell Scripting  
-- Linux (Kali Linux)  
-- Git & GitHub  
-
----
-
-## 📂 Featured Projects
-
-### 🔎 Malicious URL Detection
-Machine learning–based system to classify malicious URLs for enhanced web security.
-
-**Tech Stack:** Python, Machine Learning
-
----
-
-### 🛠️ FASTSCAN – Concurrent Two-Tier Port Scanner
-High-performance Python-based port scanner built using concurrency for faster network reconnaissance.
-
-**Features:**
-- Multi-threaded scanning
-- Port enumeration
-- Service detection (basic)
-
-**Tech Stack:** Python, Networking
-
----
-
-### 📊 Automated ECG Classification Using Deep Learning
-Deep learning system for automated ECG signal classification.
-
-- CNN-based arrhythmia detection model  
-- Optimized using Particle Swarm Optimization (PSO)  
-- Achieved **99.25% accuracy**  
-- Published in *International Journal of Information and Electronics Engineering (2025)*
-
-**Tech Stack:** Python, Deep Learning
-
----
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects, skills, and profile.
-
-**Tech Stack:** HTML, CSS
-
----
-
-## 🎓 Experience
-
-### 🔐 Cybersecurity Internship – Craw Security (Hyderabad)
-- Performed network and web security assessments
-- Built **FASTSCAN – Concurrent Port Scanning Tool**
-- Practiced vulnerability scanning in lab environments
-- Worked with real-world security tools and attack simulations
-- Followed ethical hacking guidelines
-
-### 🌐 Freelance Web Application Developer & Security Tester
-- Designed UI/UX and integrated backend database
-- Conducted manual and automated web security testing
-- Identified and validated **SQL Injection (SQLi)** vulnerabilities using sqlmap
-- Reported findings and performed re-testing after fixes
-
----
-
-## 📜 Certifications
-
-- Ethical Hacking (CEH) – Craw Security  
-- Advanced Penetration Testing – Craw Security  
-- Python Programming – Craw Security  
-- Linux Essentials – Craw Security  
-- Basic Networking – Craw Security  
-
----
-
-## 🌐 Connect With Me
+## 🌐 Socials
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mani-vidyadhar-949b63233" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:manividyadhar143@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://manividyadhar.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 </p>
+
+---
+
+## 🧰 Tech Stack
+
+### 🛡️ Cybersecurity & Networking
+![Nmap](https://img.shields.io/badge/Nmap-004C99?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-2E8B57?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A72?style=for-the-badge)
+![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge)
+
+### 💻 Programming & OS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 Projects
+
+- 🔎 **Malicious URL Detection**  
+  Machine learning–based system to classify malicious URLs.
+
+- 🛠️ **FASTSCAN – Concurrent Two-Tier Port Scanner**  
+  Multi-threaded Python tool for fast network reconnaissance.
+
+- 📊 **Automated ECG Classification Using Deep Learning**  
+  CNN-based arrhythmia detection system  
+  ✔ Achieved **99.25% accuracy**  
+  ✔ Published in *International Journal of Information and Electronics Engineering (2025)*
+
+- 🌐 **Personal Portfolio Website**  
+  Portfolio showcasing projects, skills, and profile.
+
+👉 Explore pinned repositories below ⬇️
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=manividyadhar&show_icons=true&theme=radical" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manividyadhar&theme=radical" width="48%"/>
 </p>
 
 ---
 
-⭐ *I believe in continuous learning and building practical cybersecurity solutions.*
+⭐ *Focused on learning, practicing, and building real-world cybersecurity solutions.*
