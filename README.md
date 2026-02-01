@@ -59,8 +59,8 @@ Personal portfolio website showcasing projects and technical skills.
 ## 📫 Connect With Me
 
 - 🔗 GitHub: https://github.com/manividyadhar  
-- 🔗 LinkedIn: (add your LinkedIn profile link here)  
-- 📧 Email: (add your professional email here)
+- 🔗 LinkedIn: www.linkedin.com/in/manividyadhar  
+- 📧 Email: manividyadhar143@gmail.com
 
 ---
 
