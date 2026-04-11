@@ -23,7 +23,7 @@
 <a href="mailto:manividyadhar143@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://manividyadhar.github.io/portfolio/" target="_blank">
+<a href="https://manividyadhar.github.io/portfolio/" target="https://manividyadhar.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 </p>
